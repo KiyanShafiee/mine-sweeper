@@ -1,0 +1,9 @@
+ali 12 4
+mamad 25 6
+kiyan 8 9
+ali 12 4
+mamad 25 6
+kiyan 8 9
+l 0 0
+ 0 0
+ 0 0
